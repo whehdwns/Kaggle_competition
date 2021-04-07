@@ -6,3 +6,10 @@ Data Scource for this code is from <a href="https://www.kaggle.com/c/house-price
 ## Score
 - 1st trial : 2.34982
 - 2nd trial : 0.13226 (Top 32%)
+
+
+## Sales Distribution
+<img src="image/Sales_Distribution.PNG">
+
+## Ridge Prediction vs. Real Values
+<img src="image/Ridge_vs_real.PNG">
