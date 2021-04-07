@@ -12,4 +12,4 @@ Data Scource for this code is from <a href="https://www.kaggle.com/c/house-price
 <img src="image/Sales_Distribution.PNG">
 
 ## Ridge Prediction vs. Real Values
-<img src="image/Ridge_vs_real.PNG">
+<img src="image/Ridge_Score_vs_real.PNG">
