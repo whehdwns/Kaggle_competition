@@ -6,3 +6,4 @@ Data Scource for this code is from <a href="https://www.kaggle.com/c/tabular-pla
 ## Score
 - 1st trial : 0.68313
 - 2nd trial : 0.79082
+- 3rd trial : 0.79829 (Top 21%)
