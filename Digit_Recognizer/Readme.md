@@ -5,4 +5,5 @@ Data Scource for this code is from <a href="https://www.kaggle.com/c/digit-recog
 
 ## Score
 - 1st trial : 0.98960
+- 2nd trial : 0.99050
 
